@@ -47,7 +47,6 @@ body {
 
 /* form section starts */
 .form-container {
-    background: url(image/air-jordan-1-retro_889e106e-5afa-4780-8f21-e07e3705adce.webp);
     margin: 1rem 1rem;
     background-size: cover;
     background-position: center;
@@ -370,6 +369,7 @@ body {
 .social-icon a {
     color: #fff;
     margin-right: 2rem;
+    text-decoration: none;
 }
 .social-icon a:hover {
     transform: rotate(360deg);
@@ -382,6 +382,5 @@ body {
 .sec1 img:hover {
     transform: rotate(360deg);
     transition: 1s ease;
-
 }
 

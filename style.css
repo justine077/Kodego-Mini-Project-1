@@ -430,3 +430,8 @@ background: -moz-linear-gradient(45deg, #f09433 0%,
     transition: 1s ease;
 }
 
+
+.p-3 .img1:hover {
+    transform: rotate(360deg);
+    transition: 1s ease;
+}
